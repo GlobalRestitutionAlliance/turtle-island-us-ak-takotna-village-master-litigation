@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+TAKOTNA+VILLAGE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+TAKOTNA+VILLAGE",
+  "title": "Federal Register - AK TAKOTNA VILLAGE",
+  "fetched_at": "2026-11-23T17:28:10.629850Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 215133,
+  "sha256": "cd3f45c7ffae0d32dbf616fe9f35dfffb12a9cacc3a839c9207faccf45c61365",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
